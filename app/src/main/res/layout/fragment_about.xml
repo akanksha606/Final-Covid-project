@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment_about">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_marginLeft="40dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:fontFamily="@font/andada"
+            android:text="C"
+            android:textColor="@android:color/black"
+            android:textSize="60dp" />
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:src="@drawable/splash_virus"
+            android:layout_marginTop="4dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_gravity="center_horizontal"/>
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:fontFamily="@font/andada"
+            android:textSize="60dp"
+            android:text="VID-19"
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/andada"
+            android:padding="16dp"
+            android:text="Mobile app for tracking COVID-19 statistics across India .The data has been collected from certain official and unofficial resources."
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Resources Used"
+            android:layout_gravity="center_horizontal"
+            android:padding="8dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20sp"
+            android:fontFamily="@font/alike_angular"/>
+        <TextView
+            android:id="@+id/api_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Api link here"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+            android:fontFamily="@font/andada"
+            android:textColor="@color/home_color"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Refer code"
+            android:layout_gravity="center_horizontal"
+            android:padding="8dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20sp"
+            android:fontFamily="@font/alike_angular"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Github"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+            android:fontFamily="@font/andada"
+            android:id="@+id/code"
+            android:textColor="@color/home_color"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/about_image"
+        android:scaleType="centerInside"
+        android:paddingBottom="72dp"
+        />
+    </LinearLayout>
+
+
+</FrameLayout>

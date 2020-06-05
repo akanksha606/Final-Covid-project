@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_precaution.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_precaution.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fever.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\fever.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vomitting.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\vomitting.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_virus.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\virus.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_symptom.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\fragment_symptom.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mask.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\mask.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\font_alike_angular.ttf.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\font\\alike_angular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_image.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\about_image.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_death_.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\death_.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_travel.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\travel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_about.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\ic_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_washing_hands.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\washing_hands.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_death.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\death.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sick.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\sick.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_precaution.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_precaution.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_precaution.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_precaution.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_precaution.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_precaution.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headache.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\headache.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_distance.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\distance.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_precaution.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_precaution.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_precaution.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_precaution.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_symptom.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\ic_symptom.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_virus.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\splash_virus.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_precaution.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\fragment_precaution.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recovered.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\recovered.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reading_a_book.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\reading_a_book.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_active.jpg.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\active.jpg"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_screen.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\layout\\loading_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_runny.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\runny.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cough.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\cough.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\font_andada.ttf.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\font\\andada.ttf"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_throat.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\src\\main\\res\\drawable\\throat.png"
+    },
+    {
+        "merged": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_precaution.png.flat",
+        "source": "C:\\Users\\akank\\AndroidStudioProjects\\xyz-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_precaution.png"
+    }
+]

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fxn769:ariana:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31298f097648e1e97c1d71e6464d5ef9/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31298f097648e1e97c1d71e6464d5ef9/jetified-ariana-1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/ariana/1.0/ea48899e09508f2f7a353289404f3abb5cefa615/ariana-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/ariana/1.0/31a230dbfea0dbfc0a79a5f678c0dc456a17ccc3/ariana-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

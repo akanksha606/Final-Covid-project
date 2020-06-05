@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+   app:cnb_unselectedColor="#FFFFFFFF">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+
+        android:icon="@drawable/ic_home"
+        app:cnb_iconColor="@color/home_color"
+        >
+    </item>
+    <item
+        android:id="@+id/symptom"
+        android:title="Symptoms"
+        android:icon="@drawable/ic_symptom"
+        app:cnb_iconColor="@color/symptoms_color">
+    </item>
+    <item
+        android:id="@+id/precaution"
+        android:title="Precautions"
+        android:icon="@drawable/ic_precaution"
+        app:cnb_iconColor="@color/precautions_color"
+        >
+    </item>
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_about"
+        app:cnb_iconColor="@color/about_color"
+         >
+    </item>
+
+</menu>
