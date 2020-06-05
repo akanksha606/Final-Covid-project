@@ -36,7 +36,7 @@ class fragment_about : Fragment() {
         }
         code.setOnClickListener(){
             val intent2 = Intent(Intent.ACTION_VIEW)
-            intent2.setData(Uri.parse("https://github.com/akanksha606/CovidProject"))
+            intent2.setData(Uri.parse("https://github.com/akanksha606/Final-Covid-project"))
             startActivity(intent2)
         }
 
