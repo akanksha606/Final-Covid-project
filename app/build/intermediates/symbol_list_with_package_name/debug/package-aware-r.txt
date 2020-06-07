@@ -1073,6 +1073,7 @@ layout cnb_vertical_menu_item
 layout custom_dialog
 layout fragment_about
 layout fragment_home
+layout fragment_internet
 layout fragment_precaution
 layout fragment_symptom
 layout item_list

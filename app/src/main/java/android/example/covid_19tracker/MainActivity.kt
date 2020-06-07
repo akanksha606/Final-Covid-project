@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         supportActionBar?.hide()
       val chipNavigationBar:ChipNavigationBar=findViewById(R.id.menu_bottom)
+        chipNavigationBar.setItemSelected(R.id.home,true)
         fragmentHome= fragment_home()
         supportFragmentManager
             .beginTransaction()
