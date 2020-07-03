@@ -35,40 +35,39 @@
 22-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:11:9-54
 23        android:supportsRtl="true"
 23-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:12:9-35
-24        android:testOnly="true"
-25        android:theme="@style/AppTheme" >
-25-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:14:9-40
-26        <activity
-26-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:15:9-23:20
-27            android:name="android.example.covid_19tracker.SplashScreenActivity"
-27-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:15:19-55
-28            android:noHistory="true"
-28-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:17:13-37
-29            android:theme="@style/SplashTheme" >
-29-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:16:13-47
-30            <intent-filter>
-30-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:18:13-22:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:19:17-69
-31-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:19:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:21:17-77
-33-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:21:27-74
-34            </intent-filter>
-35        </activity>
-36        <activity
-36-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:24:9-26:15
-37            android:name="android.example.covid_19tracker.LoadingScreen"
-37-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:24:19-48
-38            android:theme="@style/LoadingTheme" />
-38-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:25:13-48
-39        <activity
-39-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:9-30:15
-40            android:name="android.example.covid_19tracker.MainActivity"
-40-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:19-47
-41            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
-41-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:29:13-87
-42    </application>
-43
-44</manifest>
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:14:9-40
+25        <activity
+25-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:15:9-23:20
+26            android:name="android.example.covid_19tracker.SplashScreenActivity"
+26-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:15:19-55
+27            android:noHistory="true"
+27-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:17:13-37
+28            android:theme="@style/SplashTheme" >
+28-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:16:13-47
+29            <intent-filter>
+29-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:19:17-69
+30-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:21:17-77
+32-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:24:9-26:15
+36            android:name="android.example.covid_19tracker.LoadingScreen"
+36-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:24:19-48
+37            android:theme="@style/LoadingTheme" />
+37-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:25:13-48
+38        <activity
+38-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:9-30:15
+39            android:name="android.example.covid_19tracker.MainActivity"
+39-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:19-47
+40            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+40-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:29:13-87
+41    </application>
+42
+43</manifest>
