@@ -18,7 +18,7 @@
 12-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:5:22-76
 13
 14    <application
-14-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:7:5-30:19
+14-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:7:5-32:19
 15        android:allowBackup="true"
 15-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:8:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -63,9 +63,12 @@
 37-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:24:19-48
 38            android:theme="@style/LoadingTheme" />
 38-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:25:13-48
-39        <activity android:name="android.example.covid_19tracker.MainActivity" />
-39-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:9-49
-39-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:19-47
-40    </application>
-41
-42</manifest>
+39        <activity
+39-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:9-30:15
+40            android:name="android.example.covid_19tracker.MainActivity"
+40-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:28:19-47
+41            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+41-->C:\Users\akank\AndroidStudioProjects\xyz-master\app\src\main\AndroidManifest.xml:29:13-87
+42    </application>
+43
+44</manifest>

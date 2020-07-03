@@ -504,6 +504,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color statewise_color
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -740,6 +741,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable about_image
 drawable active
+drawable alert
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -755,6 +757,7 @@ drawable distance
 drawable fever
 drawable headache
 drawable ic_about
+drawable ic_apartment
 drawable ic_home
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -778,6 +781,7 @@ drawable recovered
 drawable runny
 drawable sick
 drawable splash
+drawable splash_graph
 drawable splash_virus
 drawable throat
 drawable tooltip_frame_dark
@@ -863,6 +867,7 @@ id action_mode_close_button
 id action_text
 id actions
 id activeTv
+id active_percentage
 id activity_chooser_view_content
 id add
 id alertTitle
@@ -889,6 +894,7 @@ id chains
 id checkbox
 id checked
 id chronometer
+id circle
 id clip_horizontal
 id clip_vertical
 id cnb_item_icon
@@ -899,6 +905,7 @@ id content
 id contentPanel
 id custom
 id customPanel
+id death_percentage
 id deceasedTv
 id decor_content_parent
 id default_activity_button
@@ -919,14 +926,15 @@ id fragment_container
 id gone
 id group_divider
 id groups
+id header
 id home
 id homeAsUp
+id home_container
 id horizontal
 id icon
 id icon_group
 id ifRoom
 id image
-id imageView
 id info
 id invisible
 id italic
@@ -945,6 +953,8 @@ id message
 id middle
 id multiply
 id never
+id no_internet
+id no_state_internet
 id none
 id normal
 id notification_background
@@ -956,12 +966,16 @@ id packed
 id parent
 id parentPanel
 id percent
+id pieChart
 id precaution
 id progress_circular
 id progress_horizontal
 id radio
 id recoveredTv
+id recovered_percentage
 id recyclerView
+id refresh
+id refreshSwipe
 id right
 id right_icon
 id right_side
@@ -994,7 +1008,11 @@ id src_in
 id src_over
 id standard
 id start
+id stat
 id stateTv
+id statewise
+id statewise_kit
+id statusLayout
 id status_bar_latest_event_content
 id submenuarrow
 id submit_area
@@ -1015,6 +1033,9 @@ id textSpacerNoTitle
 id time
 id title
 id titleDividerNoCustom
+id titleHome
+id titleHomeNew
+id titleTv
 id title_template
 id top
 id topContainer
@@ -1075,6 +1096,7 @@ layout fragment_about
 layout fragment_home
 layout fragment_internet
 layout fragment_precaution
+layout fragment_statewise
 layout fragment_symptom
 layout item_list
 layout loading_screen

@@ -37,7 +37,9 @@
         <activity
             android:name="android.example.covid_19tracker.LoadingScreen"
             android:theme="@style/LoadingTheme" />
-        <activity android:name="android.example.covid_19tracker.MainActivity" />
+        <activity
+            android:name="android.example.covid_19tracker.MainActivity"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
     </application>
 
 </manifest>

@@ -11,6 +11,12 @@
         >
     </item>
     <item
+        android:id="@+id/statewise"
+        android:icon="@drawable/ic_apartment"
+        android:title="Statewise"
+        app:cnb_iconColor="@color/statewise_color"
+        />
+    <item
         android:id="@+id/symptom"
         android:title="Symptoms"
         android:icon="@drawable/ic_symptom"

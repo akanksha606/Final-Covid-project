@@ -25,7 +25,9 @@
             android:theme="@style/LoadingTheme"
             />
 
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".MainActivity"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+            />
 
     </application>
 
